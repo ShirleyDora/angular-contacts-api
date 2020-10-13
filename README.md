@@ -9,7 +9,7 @@
 - 需要授权的接口必须提供请求头字段 X-Access-Token 信息
 - 使用 HTTP Status Code 标识状态
 - 分页列表参数使用 _page 和 _limit
-- 时间日期格式：2017-12-24 13:52:26
+- 时间日期格式：2020-09-24 13:52:26
 - 数据返回格式统一使用 JSON
 - 无特殊说明，接口默认支持 application/x-www-form-urlencoded 和 application/json 两种方式
 
