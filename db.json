@@ -1,0 +1,37 @@
+{
+  "users": [],
+  "tags": [
+    {
+      "id": 1,
+      "title": "朋友"
+    },
+    {
+      "id": 2,
+      "title": "家人"
+    },
+    {
+      "id": 3,
+      "title": "同学"
+    },
+    {
+      "id": 4,
+      "title": "公司"
+    }
+  ],
+  "contacts": [
+    {
+      "name": "可可",
+      "email": "123@qq.com",
+      "phone": "12345678910",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "name": "爱爱12345",
+      "email": "12345@qq.com",
+      "phone": "11",
+      "userId": 1,
+      "id": 2
+    }
+  ]
+}
